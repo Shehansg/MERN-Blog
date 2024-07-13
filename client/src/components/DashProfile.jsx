@@ -240,7 +240,7 @@ export default function DashProfile() {
             onChange={handleChange}
         />
         
-        <Button
+        <Button 
           type='submit'
           gradientDuoTone='purpleToBlue'
           outline
