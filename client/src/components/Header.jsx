@@ -65,13 +65,13 @@ export default function Header() {
         <TextInput
           type='text'
           placeholder='Search...'
-          rightIcon={AiOutlineSearch}
+          //rightIcon={AiOutlineSearch}
           className='hidden lg:inline'
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
       </form>
-      <Button className='w-12 h-10 lg:hidden' color='gray' pill>
+      <Button className='w-12 h-10 lg:hidden flex-auto' color='gray' pill>
         <AiOutlineSearch />
       </Button>
       <div className='flex gap-2 md:order-2'>
