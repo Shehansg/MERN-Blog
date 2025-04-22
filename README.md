@@ -14,3 +14,5 @@ Create a blog website using mern and using tailwind css.
 
 ![Screenshot 2025-04-22 160438](https://github.com/user-attachments/assets/89afaaec-0ba4-41c3-a209-b665f5302f34)
 
+
+![Screenshot 2025-04-22 160847](https://github.com/user-attachments/assets/cfe5fb67-640c-4644-890f-ae142c786faf)
